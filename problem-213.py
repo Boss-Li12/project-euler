@@ -1,4 +1,3 @@
-
 # 1.预处理neighbours
 neighbours = [[[] for _ in range(30)] for _ in range(30)]
 delta = ((0, 1), (0, -1), (1, 0), (-1, 0))
